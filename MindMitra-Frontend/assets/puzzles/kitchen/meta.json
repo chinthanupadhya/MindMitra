@@ -1,0 +1,11 @@
+{
+  "id": "kitchen",
+  "name": "The Kitchen Counter",
+  "original": "original.png",
+  "altered": "altered.png",
+  "missingObjects": [
+    { "id": "milk", "label": "Milk", "image": "objects/milk.png", "x": 0.723, "y": 0.693 },
+    { "id": "pan", "label": "Pan", "image": "objects/pan.png", "x": 0.184, "y": 0.450 },
+    { "id": "pot", "label": "Pot", "image": "objects/pot.png", "x": 0.855, "y": 0.324 }
+  ]
+}

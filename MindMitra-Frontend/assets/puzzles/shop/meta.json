@@ -1,0 +1,11 @@
+{
+  "id": "shop",
+  "name": "Shop",
+  "original": "original.png",
+  "altered": "altered.png",
+  "missingObjects": [
+    { "id": "cat", "label": "Cat", "image": "objects/cat.png", "x": 0.816, "y": 0.624 },
+    { "id": "duck", "label": "Duck", "image": "objects/duck.png", "x": 0.052, "y": 0.685 },
+    { "id": "parrot", "label": "Parrot", "image": "objects/parrot.png", "x": 0.160, "y": 0.109 }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ocean",
+  "name": "The Ocean",
+  "original": "original.png",
+  "altered": "altered.png",
+  "missingObjects": [
+    { "id": "crab", "label": "Crab", "image": "objects/crab.png", "x": 0.490, "y": 0.867 },
+    { "id": "whale", "label": "Whale", "image": "objects/whale.png", "x": 0.352, "y": 0.154 },
+    { "id": "octopus", "label": "Octopus", "image": "objects/octopus.png", "x": 0.873, "y": 0.834 }
+  ]
+}

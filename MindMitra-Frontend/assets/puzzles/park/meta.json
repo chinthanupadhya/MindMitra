@@ -1,0 +1,10 @@
+{
+  "id": "park",
+  "name": "The Park Path",
+  "original": "original.png",
+  "altered": "altered.png",
+  "missingObjects": [
+    { "id": "streetlamp", "label": "Street Lamp", "image": "objects/streetlamp.png", "x": 0.3125, "y": 0.8 },
+    { "id": "frisbee", "label": "Frisbee", "image": "objects/frisbee.png", "x": 0.65, "y": 0.9 }
+  ]
+}

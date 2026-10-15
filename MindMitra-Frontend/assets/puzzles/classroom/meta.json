@@ -1,0 +1,11 @@
+{
+  "id": "classroom",
+  "name": "The Classroom",
+  "original": "original.png",
+  "altered": "altered.png",
+  "missingObjects": [
+    { "id": "frog", "label": "Frog", "image": "objects/frog.png", "x": 0.334, "y": 0.353 },
+    { "id": "penstand", "label": "Pen Stand", "image": "objects/penstand.png", "x": 0.932, "y": 0.473 },
+    { "id": "bookstack", "label": "Book stack", "image": "objects/bookstack.png", "x": 0.166, "y": 0.794 }
+  ]
+}
